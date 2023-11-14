@@ -8,7 +8,7 @@
 В данном проекте будут расмотрены вакансии, которые доступны в России
 
 Часть 2. Создание DataFrame  
-Для наглядности и улобства был создан dataframe, который содержит следубщие столбцы: name (вакансии), city, lat, lng, company_name, experience, skills, salary_from, salary_to и description
+Для наглядности и улобства был создан dataframe, который содержит следубщие столбцы: vacancy_name, city, lat, lng, company_name, experience, skills, salary_from, salary_to и description
 В дальнейшем был добалвен столбец average_salary
 Так же в этом блоке происходит обработка столбца description, который содержит описание вакансии, от html символом и знаков препинания 
 
